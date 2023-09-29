@@ -798,6 +798,9 @@ footer:hover{
     padding: 0px;
   }
 
+  .nsImg {
+    border:none;
+  }
   footer{
     margin: 0;
     flex-direction: column;
