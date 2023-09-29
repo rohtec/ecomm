@@ -495,7 +495,7 @@ input:active, input:focus {
   background-image: url("img/image5.JPG");
   animation-name: play;
   animation-duration: 10s;
-  animation-iteration-count: 3;
+  animation-iteration-count: 2;
   animation-delay: 5s;
   background-repeat: no-repeat;
   background-size: contain;
