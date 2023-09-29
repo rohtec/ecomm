@@ -491,7 +491,7 @@ input:active, input:focus {
   position: relative;
   width: 80%;
   height: 500px;
-/*  border: 1px solid red;*/
+  border: none;
   background-image: url("img/image5.JPG");
   animation-name: play;
   animation-duration: 10s;
